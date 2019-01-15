@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="47px" viewBox="0 0 48 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Skuid-Home" transform="translate(-559.000000, -4421.000000)">
+            <g id="Professional-Services-Section" transform="translate(0.000000, 4233.000000)">
+                <g id="Solutions-Engineering" transform="translate(469.000000, 188.000000)">
+                    <g id="Solutions-icon" transform="translate(90.000000, 0.000000)">
+                        <g id="Page-1">
+                            <path d="M2,7.78210117 L46,7.78210117 L46,1.94552529 L2,1.94552529 L2,7.78210117 Z M2,44.7470817 L46,44.7470817 L46,9.72762646 L2,9.72762646 L2,44.7470817 Z M47,0 L1,0 C0.448,0 0,0.435797665 0,0.972762646 L0,45.7198444 C0,46.2568093 0.448,46.692607 1,46.692607 L47,46.692607 C47.552,46.692607 48,46.2568093 48,45.7198444 L48,9.72762646 L48,7.78210117 L48,0.972762646 C48,0.435797665 47.552,0 47,0 L47,0 Z" id="Fill-3" fill="#A9CEDD"></path>
+                            <path d="M8,23.3463035 L40,23.3463035 L40,15.5642023 L8,15.5642023 L8,23.3463035 Z M6,25.2918288 L42,25.2918288 L42,13.618677 L6,13.618677 L6,25.2918288 Z" id="Fill-5" fill="#037CAC"></path>
+                            <path d="M8,38.9105058 L20,38.9105058 L20,31.1284047 L8,31.1284047 L8,38.9105058 Z M6,40.8560311 L22,40.8560311 L22,29.1828794 L6,29.1828794 L6,40.8560311 Z" id="Fill-6" fill="#037CAC"></path>
+                            <path d="M28,38.9105058 L40,38.9105058 L40,31.1284047 L28,31.1284047 L28,38.9105058 Z M26,40.8560311 L42,40.8560311 L42,29.1828794 L26,29.1828794 L26,40.8560311 Z" id="Fill-7" fill="#037CAC"></path>
+                            <polygon id="Fill-8" fill="#037CAC" points="4 5.83657588 6 5.83657588 6 3.89105058 4 3.89105058"></polygon>
+                            <polygon id="Fill-9" fill="#037CAC" points="8 5.83657588 10 5.83657588 10 3.89105058 8 3.89105058"></polygon>
+                            <polygon id="Fill-10" fill="#037CAC" points="12 5.83657588 14 5.83657588 14 3.89105058 12 3.89105058"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
