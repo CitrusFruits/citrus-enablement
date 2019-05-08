@@ -85,7 +85,7 @@ function safeGetProperty(object, property) {
  * object as first argument, like this:
  *   deepExtend({}, yourObj_1, [yourObj_N]);
  */
-var deepExtend = module.exports = function (/*obj_1, [obj_2], [obj_N]*/) {
+var deepExtend = function (/*obj_1, [obj_2], [obj_N]*/) {
 	if (arguments.length < 1 || typeof arguments[0] !== 'object') {
 		return false;
 	}
